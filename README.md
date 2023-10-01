@@ -1,4 +1,4 @@
-# THM-Cheat-Sheet-
+# THM-Cheat-Sheet
 Zbiór zasobów i przydatnych polecen:
 
 1. [Bash](#bash)
